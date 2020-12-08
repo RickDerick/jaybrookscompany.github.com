@@ -1,0 +1,11 @@
+img{
+max-width:100%;
+height:auto;
+background:lightblue;
+background:radial-gradient(white 30%,lightblue 70%);
+}
+ 
+.fa fa-star{
+color:yellow;
+padding:3% 0;
+}
